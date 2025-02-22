@@ -1,1 +1,1 @@
-# Predicting-Hazardous-Near-Earth-Objects
+# Predicting Hazardous Near Earth Objects
