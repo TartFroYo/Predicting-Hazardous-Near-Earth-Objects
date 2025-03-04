@@ -1,4 +1,5 @@
 # Predicting Hazardous Near Earth Objects
+**Collaborators: Eshaan Arora, Jose Currea, Gayathree Gopi, Aileen Li, Felipe Zapater**
 
 Near-Earth Objects (NEOs) pose a potential threat to our planet, making their early detection critical for risk assessment and mitigation. 
 In this project, we analyzed a NASA dataset containing over 338,000 observations of asteroids to predict whether an NEO is hazardous. 
